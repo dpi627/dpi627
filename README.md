@@ -1,6 +1,29 @@
-# Hi there !👋
+# Hi there !👋 I'm Brian.
 
-### 🤓 My name is Brian. I'm a Software Developer from Taiwan.
+
+![](https://img.shields.io/badge/-8-512BD4?logo=dotnet)
+![](https://img.shields.io/badge/-6-512BD4?logo=dotnet)
+![](https://img.shields.io/badge/-Framework-3484D2?logo=dotnet)
+![](https://img.shields.io/badge/-Standard-056473?logo=dotnet)
+![](https://img.shields.io/badge/-NuGet-004880?logo=nuget)
+![](https://img.shields.io/badge/Git-555?logo=git)
+![](https://img.shields.io/badge/gitignore-204ECF?logo=gitignore.io)
+![](https://img.shields.io/badge/GitHub-555?logo=github)
+![](https://img.shields.io/badge/Gitea-555?logo=gitea)
+![](https://img.shields.io/badge/Gitea_Actions-555?logo=githubactions)
+![](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree)
+![](https://img.shields.io/badge/draw.io-555?logo=diagrams.net)
+![](https://img.shields.io/badge/YAML-CB171E?logo=yaml)
+![](https://img.shields.io/badge/Markdown-555?logo=markdown)
+![](https://img.shields.io/badge/LaTex-008080?logo=latex)
+![](https://img.shields.io/badge/Mermaid-555?logo=mermaid)
+![](https://img.shields.io/badge/SVN-555?logo=subversion)
+![](https://img.shields.io/badge/Shields.io-555?logo=shieldsdotio)
+![](https://img.shields.io/badge/Anthropic-191919?logo=anthropic)
+![](https://img.shields.io/badge/OpenAI-412991?logo=openai) 
+![](https://img.shields.io/badge/GitHub_Copilot-555?logo=githubcopilot)
+
+### 🤓 I'm a Software Developer from Taiwan.
 
 > [!IMPORTANT]\
 > I have several years of experience in software development and am proficient in the .NET, include `.NET framework`, `.NET Core` and `.NET`.
