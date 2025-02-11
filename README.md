@@ -10,9 +10,9 @@ For databases, I primarily work with MS SQL Server.
 
 ###
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpi627&hide=contribs,prs&show_icons=true&theme=nightowl&width=320)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpi627&hide=contribs,prs&show_icons=true&theme=nightowl&card_width=450)
 
-![Most Use Langugage](https://github-readme-stats.vercel.app/api/top-langs?username=dpi627&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false)
+![Most Use Langugage](https://github-readme-stats.vercel.app/api/top-langs?username=dpi627&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=nightowl&hide_border=false)
 
 ###
 
