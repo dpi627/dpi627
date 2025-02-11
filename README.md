@@ -1,6 +1,6 @@
-## Hi there👋! My name is Brian.
+# Hi there !👋
 
-🤓I'm a Software Developer from Taiwan.
+### 🤓 My name is Brian. I'm a Software Developer from Taiwan.
 
 > [!IMPORTANT]\
 > I have several years of experience in software development and am proficient in the .NET, include `.NET framework`, `.NET Core` and `.NET`.
