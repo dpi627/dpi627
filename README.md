@@ -44,25 +44,25 @@ For databases, I primarily work with MS SQL Server.
 ###
 
 <div align="left">
-    <a href="https://medium.com/@dpi.studio">
+    <a href="https://medium.com/@dpi.studio" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="mediem logo"  />
     </a>
-    <a href="https://www.flickr.com/photos/dpi/albums">
+    <a href="https://www.flickr.com/photos/dpi/albums" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/static/v1?message=flickr&logo=flickr&label=&color=1850A2&logoColor=FB0083&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
-    <a href="https://dpicode.blogspot.com/">
+    <a href="https://dpicode.blogspot.com/" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/static/v1?message=blogger&logo=blogger&label=&color=F27B22&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
     </a>
-    <a href="https://dpicode.blogspot.com/">
+    <a href="https://dpicode.blogspot.com/" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/static/v1?message=personal&logo=blogger&label=&color=739C25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
     </a>
-    <a href="https://dpicode.blogspot.com/">
+    <a href="https://dpicode.blogspot.com/" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/static/v1?message=wedding&logo=blogger&label=&color=E08DCE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
     </a>
-    <a href="mailto:dpi.studio@gmail.com">
+    <a href="mailto:dpi.studio@gmail.com" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/dpi627">
+    <a href="https://www.linkedin.com/in/dpi627" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
 </div>
