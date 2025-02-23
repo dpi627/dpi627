@@ -44,9 +44,6 @@ For databases, I primarily work with MS SQL Server.
 ###
 
 <div align="left">
-    <a href="https://dpi627.github.io/">
-        <img src="https://img.shields.io/static/v1?message=GitHub%20Pages&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="github page logo"  />
-    </a>
     <a href="https://medium.com/@dpi.studio">
         <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="mediem logo"  />
     </a>
